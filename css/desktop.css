@@ -1,0 +1,7 @@
+.slider {
+    overflow-x: hidden;
+}
+
+.info-container {
+    place-content: center;
+}

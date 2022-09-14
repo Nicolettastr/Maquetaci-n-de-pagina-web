@@ -1,0 +1,29 @@
+.tables-slider {
+    overflow-x: hidden;
+    gap: 0;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-tables-container {
+    width: 360px;
+}
+
+.main-trust-info-title p:nth-child(2){
+    font-size: 1.4rem;
+}
+
+.info-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+    place-content: center;
+}
+
+.information-cards {
+    width: 100%;
+    min-width: 600px;
+    display: flex;
+    margin: 20px  auto;
+}
