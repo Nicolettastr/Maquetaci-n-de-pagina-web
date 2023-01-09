@@ -5,4 +5,4 @@ Proyecto de la clase de maquetacion del curso de platzi.
 
 Aprendizaje: 
 
-  Uso de diferentes etiquetas, posicionamiento de elementos, maqietacion con flexbox y primera vez maquetando con scroll 
+  Uso de diferentes etiquetas, posicionamiento de elementos, maquetacion con flexbox, maquetando con scroll 
